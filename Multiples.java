@@ -1,5 +1,3 @@
-//<<<<<<< HEAD
-//package week1git;
 
 public class Multiples {
     public static int main(int n, int a, int b) {
