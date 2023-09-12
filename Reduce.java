@@ -1,3 +1,4 @@
+//<<<<<<< HEAD
 //package week1git;
 
 public class Reduce {
